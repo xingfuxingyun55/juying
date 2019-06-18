@@ -8,6 +8,7 @@ public class JuyingApiApplication {
 
     public String name;
 
+
     public static void main(String[] args) {
         SpringApplication.run(JuyingApiApplication.class, args);
     }
