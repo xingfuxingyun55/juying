@@ -2,7 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b630f3b-e9c0-4b1a-a394-50a0c2687073" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/test/java/com/example/demo/DemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juying_provider/src/main/java/com/juying/application/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juying_provider/src/main/java/com/juying/juying_controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juying_provider/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juying_api/src/main/java/com/juying/juying_api/JuyingApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/juying_api/src/main/java/com/juying/application/juying_api/JuyingApiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juying_api/src/test/java/com/juying/juying_api/JuyingApiApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/juying_api/src/test/java/com/juying/application/juying_api/JuyingApiApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juying_provider/src/main/java/com/juying/juying_provider/JuyingProviderApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/juying_provider/src/main/java/com/juying/application/JuyingProviderApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juying_provider/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/juying_provider/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juying_provider/src/test/java/com/juying/juying_provider/JuyingProviderApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/juying_provider/src/test/java/com/juying/application/JuyingProviderApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juying_server/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juying_server/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juying_server/src/main/java/com/juying/juying_server/JuyingServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/juying_server/src/main/java/com/juying/application/juying_server/JuyingServerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juying_server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/juying_server/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juying_server/src/test/java/com/juying/juying_server/JuyingServerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/juying_server/src/test/java/com/juying/application/juying_server/JuyingServerApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/juying-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -15,6 +43,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/juying$JuyingProviderApplication.ic" NAME="JuyingProviderApplication Coverage Results" MODIFIED="1560846601150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -35,38 +66,77 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="JuyingProviderApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/juying_provider/src/main/java/com/juying/application/JuyingProviderApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/juying_api/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="35" column="20" lean-forward="true" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JuyingApiApplication.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/juying_api/src/main/java/com/juying/juying_api/JuyingApiApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="112">
+              <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
               <folding>
-                <element signature="e#256#257#0" expanded="true" />
-                <element signature="e#327#328#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/juying_server/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="HelloController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/juying_provider/src/main/java/com/juying/application/HelloController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/juying_provider/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="17" selection-start-column="17" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/juying_server/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/juying_provider/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>EnableAuto</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\1.workSpace\3.ideaWorkSpace\juying\juying_provider\src\main\java\com\juying\juying_provider</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -75,6 +145,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/juying_api/src/main/java/com/juying/juying_api/JuyingApiApplication.java" />
+        <option value="$PROJECT_DIR$/juying_provider/src/main/java/com/juying/juying_provider/JuyingProviderApplication.java" />
+        <option value="$PROJECT_DIR$/juying_provider/src/main/java/com/juying/juying_controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HelloController.java" />
+        <option value="$PROJECT_DIR$/juying_provider/src/main/java/com/juying/juying_provider/HelloController.java" />
+        <option value="$PROJECT_DIR$/juying_provider/src/main/java/com/juying/juying_controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/juying_provider/src/main/java/com/juying/application/JuyingProviderApplication.java" />
+        <option value="$PROJECT_DIR$/juying_provider/pom.xml" />
+        <option value="$PROJECT_DIR$/juying_server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/juying_server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/juying_provider/src/main/resources/application.properties" />
       </list>
     </option>
   </component>
@@ -102,17 +182,7 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="juying" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="juying" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
@@ -133,8 +203,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -142,58 +210,43 @@
               <item name="juying" type="b2602c69:ProjectViewProjectNode" />
               <item name="juying" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="juying" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juying" type="462c0819:PsiDirectoryNode" />
-              <item name="juying_api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juying" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juying" type="462c0819:PsiDirectoryNode" />
-              <item name="juying_api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juying" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juying" type="462c0819:PsiDirectoryNode" />
-              <item name="juying_api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juying" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juying" type="462c0819:PsiDirectoryNode" />
-              <item name="juying_api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juying" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juying" type="462c0819:PsiDirectoryNode" />
-              <item name="juying_api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="juying_api" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/target/juying-1.0-SNAPSHOT.jar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.juying.juying_provider" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.juying.juying_controller" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\1.workSpace\3.ideaWorkSpace\juying\juying_provider\src\main\resources" />
+      <recent name="D:\1.workSpace\3.ideaWorkSpace\juying\juying_server\src\main\resources" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -207,7 +260,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.dev_tomcat">
+  <component name="RunManager" selected="Application.JuyingProviderApplication (1)">
+    <configuration name="JuyingProviderApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.juying.application.JuyingProviderApplication" />
+      <module name="juying_provider" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.juying.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="JuyingProviderApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.juying.JuyingProviderApplication" />
+      <module name="juying_provider" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.juying.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -227,7 +302,10 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="juying [clean]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+    <configuration name="juying_provider-0.0.1-SNAPSHOT.jar" type="JarApplication" factoryName="JAR Application" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/juying_provider/target/juying_provider-0.0.1-SNAPSHOT.jar" />
+    </configuration>
+    <configuration name="juying_provider [clean]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
         <option name="myRunnerSettings" />
@@ -246,12 +324,12 @@
               <map />
             </option>
             <option name="resolveToWorkspace" value="false" />
-            <option name="workingDirPath" value="$PROJECT_DIR$" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/juying_provider" />
           </MavenRunnerParameters>
         </option>
       </MavenSettings>
     </configuration>
-    <configuration name="juying [install]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+    <configuration name="juying_provider [package]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
         <option name="myRunnerSettings" />
@@ -262,7 +340,7 @@
             </option>
             <option name="goals">
               <list>
-                <option value="install" />
+                <option value="package" />
               </list>
             </option>
             <option name="pomFileName" value="pom.xml" />
@@ -270,22 +348,22 @@
               <map />
             </option>
             <option name="resolveToWorkspace" value="false" />
-            <option name="workingDirPath" value="$PROJECT_DIR$" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/juying_provider" />
           </MavenRunnerParameters>
         </option>
       </MavenSettings>
     </configuration>
     <configuration name="JuyingApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="juying_api" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.juying.juying_api.JuyingApiApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.juying.application.juying_api.JuyingApiApplication" />
     </configuration>
     <configuration name="JuyingProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="juying_provider" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.juying.juying_provider.JuyingProviderApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.juying.application.JuyingProviderApplication" />
     </configuration>
     <configuration name="JuyingServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="juying_server" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.juying.juying_server.JuyingServerApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.juying.application.juying_server.JuyingServerApplication" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -438,17 +516,23 @@
       </ConfigurationWrapper>
     </configuration>
     <list>
+      <item itemvalue="Tomcat Server.dev_tomcat" />
       <item itemvalue="Spring Boot.JuyingApiApplication" />
       <item itemvalue="Spring Boot.JuyingServerApplication" />
       <item itemvalue="Spring Boot.JuyingProviderApplication" />
-      <item itemvalue="Tomcat Server.dev_tomcat" />
-      <item itemvalue="Maven.juying [clean]" />
-      <item itemvalue="Maven.juying [install]" />
+      <item itemvalue="Application.JuyingProviderApplication" />
+      <item itemvalue="Application.JuyingProviderApplication (1)" />
+      <item itemvalue="JAR Application.juying_provider-0.0.1-SNAPSHOT.jar" />
+      <item itemvalue="Maven.juying_provider [clean]" />
+      <item itemvalue="Maven.juying_provider [package]" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Maven.juying [install]" />
-        <item itemvalue="Maven.juying [clean]" />
+        <item itemvalue="Application.JuyingProviderApplication (1)" />
+        <item itemvalue="Application.JuyingProviderApplication" />
+        <item itemvalue="JAR Application.juying_provider-0.0.1-SNAPSHOT.jar" />
+        <item itemvalue="Maven.juying_provider [package]" />
+        <item itemvalue="Maven.juying_provider [clean]" />
       </list>
     </recent_temporary>
   </component>
@@ -464,6 +548,8 @@
       <updated>1560825508114</updated>
       <workItem from="1560825512087" duration="523000" />
       <workItem from="1560826093749" duration="2623000" />
+      <workItem from="1560846344666" duration="7869000" />
+      <workItem from="1560909535103" duration="1278000" />
     </task>
     <task id="LOCAL-00001" summary="tijiao">
       <created>1560840854716</created>
@@ -476,7 +562,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3617000" />
+    <option name="totallyTimeSpent" value="14265000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -491,66 +577,39 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5022936" side_tool="true" weight="0.40545455" />
-      <window_info anchor="bottom" id="Application Servers" sideWeight="0.49923548" weight="0.32909092" />
-      <window_info anchor="right" id="Maven Projects" order="3" weight="0.24159022" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50076455" side_tool="true" weight="0.33636364" />
+      <window_info anchor="bottom" id="Application Servers" order="9" weight="0.32786885" />
+      <window_info anchor="right" id="Maven Projects" order="3" sideWeight="0.4990476" weight="0.24159022" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Database" order="3" weight="0.32874617" />
+      <window_info anchor="right" id="Database" order="3" sideWeight="0.4990476" weight="0.32874617" />
       <window_info id="Structure" order="1" sideWeight="0.5030488" side_tool="true" weight="0.2553517" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49714285" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49847096" weight="0.32909092" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49923548" weight="0.32909092" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="bottom" id="Java Enterprise" order="7" weight="0.32909092" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" sideWeight="0.49923548" weight="0.32909092" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.4977064" visible="true" weight="0.38545454" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.40363637" />
-      <window_info anchor="bottom" id="Spring" order="7" weight="0.32909092" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49923548" visible="true" weight="0.33454546" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49923548" weight="0.25272727" />
+      <window_info anchor="bottom" id="Spring" order="7" sideWeight="0.49923548" weight="0.32786885" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32909092" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49695122" visible="true" weight="0.2553517" />
-      <window_info anchor="right" id="Bean Validation" order="3" weight="0.3295107" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49695122" visible="true" weight="0.2148318" />
+      <window_info anchor="right" id="Bean Validation" order="3" sideWeight="0.49714285" weight="0.32874617" />
       <window_info id="Web" order="2" sideWeight="0.5030488" side_tool="true" weight="0.2553517" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" sideWeight="0.5030488" side_tool="true" weight="0.2553517" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.40363637" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49695122" visible="true" weight="0.2553517" />
-      <window_info id="Favorites" order="2" sideWeight="0.5030488" side_tool="true" weight="0.2553517" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Java Enterprise" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Structure" order="1" sideWeight="0.5030488" side_tool="true" weight="0.2553517" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Maven Projects" order="3" weight="0.24159022" />
-      <window_info id="Web" order="2" sideWeight="0.5030488" side_tool="true" weight="0.2553517" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Bean Validation" order="3" />
-      <window_info anchor="right" id="Database" order="3" weight="0.32874617" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.40545455" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32909092" />
-      <window_info anchor="bottom" id="Application Servers" order="8" weight="0.32909092" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="8" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="9" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="4" sideWeight="0.50285715" side_tool="true" weight="0.32874617" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49923548" weight="0.32786885" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -589,11 +648,63 @@
     <MESSAGE value="tijiao" />
     <option name="LAST_COMMIT_MESSAGE" value="tijiao" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.5.RELEASE/spring-boot-autoconfigure-2.1.5.RELEASE.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.class</url>
+          <line>73</line>
+          <properties class="org.springframework.boot.autoconfigure.AutoConfigurationImportSelector" method="getAutoConfigurationEntry">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="11" />
+    </breakpoint-manager>
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juying_provider/src/main/java/com/juying/application/JuyingProviderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juying_provider/src/main/java/com/juying/application/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juying_provider/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juying_provider/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
@@ -622,14 +733,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/juying_api/src/main/java/com/juying/juying_api/JuyingApiApplication.java">
+    <entry file="file://$PROJECT_DIR$/juying_api/src/main/java/com/juying/application/juying_api/JuyingApiApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding>
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -668,14 +775,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/juying_api/src/main/java/com/juying/juying_api/JuyingApiApplication.java">
+    <entry file="file://$PROJECT_DIR$/juying_api/src/main/java/com/juying/application/juying_api/JuyingApiApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -698,28 +801,205 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HelloController.java" />
+    <entry file="file://$PROJECT_DIR$/juying_provider/src/main/java/com/juying/juying_controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="36" selection-start-column="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter/2.1.5.RELEASE/spring-boot-starter-2.1.5.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-web/2.1.5.RELEASE/spring-boot-starter-web-2.1.5.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.1.5.RELEASE/spring-boot-dependencies-2.1.5.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="34" lean-forward="true" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juying_provider/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="28" column="39" lean-forward="true" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-test/2.1.5.RELEASE/spring-boot-starter-test-2.1.5.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starters/2.1.5.RELEASE/spring-boot-starters-2.1.5.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-parent/2.1.5.RELEASE/spring-boot-parent-2.1.5.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-160">
+          <caret line="8" column="60" lean-forward="true" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.7.RELEASE/spring-context-5.1.7.RELEASE.jar!/org/springframework/stereotype/Component.class">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.7.RELEASE/spring-context-5.1.7.RELEASE.jar!/org/springframework/context/annotation/Configuration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="18" selection-start-line="18" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.5.RELEASE/spring-boot-autoconfigure-2.1.5.RELEASE.jar!/org/springframework/boot/autoconfigure/AutoConfigurationPackages.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="44" column="5" lean-forward="true" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juying_api/src/main/java/com/juying/application/juying_api/JuyingApiApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/juying_api/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
+        <state relative-caret-position="508">
           <caret line="35" column="20" lean-forward="true" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/juying_api/src/main/java/com/juying/juying_api/JuyingApiApplication.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.5.RELEASE/spring-boot-2.1.5.RELEASE.jar!/org/springframework/boot/SpringBootConfiguration.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="160">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.5.RELEASE/spring-boot-autoconfigure-2.1.5.RELEASE.jar!/META-INF/spring.factories">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.5.RELEASE/spring-boot-2.1.5.RELEASE.jar!/org/springframework/boot/SpringApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="64" column="13" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.5.RELEASE/spring-boot-autoconfigure-2.1.5.RELEASE.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.5.RELEASE/spring-boot-autoconfigure-2.1.5.RELEASE.jar!/org/springframework/boot/autoconfigure/AutoConfigurationPackage.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.5.RELEASE/spring-boot-autoconfigure-2.1.5.RELEASE.jar!/org/springframework/boot/autoconfigure/EnableAutoConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.5.RELEASE/spring-boot-autoconfigure-2.1.5.RELEASE.jar!/org/springframework/boot/autoconfigure/AutoConfigurationMetadataLoader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.5.RELEASE/spring-boot-autoconfigure-2.1.5.RELEASE.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="370" column="13" lean-forward="true" selection-start-line="370" selection-start-column="13" selection-end-line="370" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juying.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juying_server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juying_provider/src/main/java/com/juying/application/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juying_server/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/juying_server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juying_provider/src/main/java/com/juying/application/JuyingProviderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juying_provider/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juying_provider/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -740,7 +1020,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited>Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -788,6 +1068,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
